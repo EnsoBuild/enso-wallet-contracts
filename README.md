@@ -1,4 +1,4 @@
-# Enso Shortcuts Contracts
+# Enso Wallet Contracts
 
 ## Docs
 
